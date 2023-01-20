@@ -132,7 +132,7 @@
 .frame-text-box {
     margin: 0 10px;
     background: #d3ded6;
-    background-image: url(/img/tile_bg_2.jpg);
+    background-image: url(img/tile_bg_2.jpg);
     display: flex;
     flex-direction: column;
     justify-content: space-around;
